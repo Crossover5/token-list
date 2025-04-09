@@ -1,0 +1,10 @@
+{
+  "name": "Crossover",
+  "symbol": "XOVR",
+  "address": "7QuydDDQaozBdB1R6oY2PcmKFAhWxSCNMQcnd3Te6Tri",
+  "chainId": 101,
+  "decimals": 9,
+  "logoURI": "",
+  "website": "YOUR_WEBSITE_URL",
+  "twitter": "YOUR_TWITTER_URL"
+}
